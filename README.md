@@ -29,7 +29,7 @@ O curso será desenvolvido seguindo o conteúdo:
 - Estatística em Ciência de Dados.
 - Teoria da informação.
 
-obs.: Este curso está sendo ministrado pelo professor Francisco Rodrigues da Univesidade de São Paulo (USP)
+obs.: Este curso está sendo ministrado pelo professor [Francisco Rodrigues](https://sites.icmc.usp.br/francisco/) da Univesidade de São Paulo (USP) 
 
 
 ## Referência bibliográfica:
