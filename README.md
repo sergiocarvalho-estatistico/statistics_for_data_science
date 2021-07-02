@@ -7,9 +7,9 @@ Aborda os principais conceitos e métodos de probabilidades e estatística aplic
 
 O curso será desenvolvido seguindo o conteúdo:
 
-1. Introdução à Teoria das Probabilidades
-2. Probabilidade Condicional e independência, Teorema da Bayes.
-3. Variáveis Aleatórias
+- 1. Introdução à Teoria das Probabilidades
+- 2. Probabilidade Condicional e independência, Teorema da Bayes.
+- 3. Variáveis Aleatórias
 4. Momentos estatísticos
 5. Distribuições binomial, Poisson e Geométrica.
 6. Distribuições normal, uniforme e exponencial
